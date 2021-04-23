@@ -1,0 +1,167 @@
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.dll.config
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.pdb
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Antlr3.Runtime.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.SqlServer.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Google.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Newtonsoft.Json.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Owin.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Helpers.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Mvc.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Optimization.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Razor.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Deployment.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Razor.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\WebGrease.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Helpers.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Mvc.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Optimization.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Razor.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Deployment.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Razor.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Newtonsoft.Json.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Antlr3.Runtime.pdb
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.SqlServer.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Google.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.csprojResolveAssemblyReference.cache
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.dll
+c:\users\user-7\documents\visual studio 2013\Projects\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.pdb
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.dll.config
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.pdb
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Antlr3.Runtime.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.SqlServer.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Core.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Cookies.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Facebook.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Google.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.OAuth.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Twitter.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Web.Infrastructure.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Newtonsoft.Json.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Owin.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Helpers.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Mvc.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Optimization.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Razor.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Deployment.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Razor.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\WebGrease.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Helpers.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Mvc.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Optimization.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Razor.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Deployment.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Razor.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Newtonsoft.Json.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Antlr3.Runtime.pdb
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.SqlServer.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Core.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Facebook.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Cookies.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.OAuth.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Google.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Twitter.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.csprojResolveAssemblyReference.cache
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.dll
+F:\YouTuve\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.pdb
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.dll.config
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\AbcTutorial_SMS.pdb
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Antlr3.Runtime.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.SqlServer.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Google.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Web.Infrastructure.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Newtonsoft.Json.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Owin.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Helpers.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Mvc.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Optimization.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Razor.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Deployment.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Razor.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\WebGrease.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Helpers.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Mvc.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Optimization.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.Razor.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Deployment.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\System.Web.WebPages.Razor.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Newtonsoft.Json.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Antlr3.Runtime.pdb
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\EntityFramework.SqlServer.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Google.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.dll
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.pdb
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.csprojAssemblyReference.cache
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.csproj.CoreCompileInputs.cache
+D:\Youtube\Final\AbcTutorial_SMS\AbcTutorial_SMS\obj\Debug\AbcTutorial_SMS.csproj.CopyComplete

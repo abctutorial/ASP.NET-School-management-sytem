@@ -1,0 +1,81 @@
+﻿
+@{
+    ViewBag.Title = "CourseEntry";
+}
+
+@*data-ng-init="GetOneRecord(@Convert.ToInt32(Request.QueryString["MasterId"]))"*@
+
+
+<div ng-app="ABCApp" ng-controller="CourseController" data-ng-init="GetOneRecord(@Convert.ToInt32(Request.QueryString["MasterId"]))">
+    <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <div class="content-header">
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1 class="m-0 text-dark">Course Entry </h1>
+                    </div><!-- /.col -->
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="../Course/CourseListView">List View</a></li>
+                        </ol>
+                    </div><!-- /.col -->
+                </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </div>
+        <!-- /.content-header -->
+        <!-- Main content -->
+        <section class="content">
+            <div class="container-fluid">
+
+                <div class="row">
+
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label>Batch Name</label>
+                            <select class="form-control" ng-model="CourseDAO.BatchId" ng-change="LoadSectionByBatchID(CourseDAO.BatchId)">
+                                <option ng-repeat="e in Batch" value="{{e.BatchId}}">{{e.BatchName}}</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+
+                <div class="row">
+
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label>Section Name</label>
+                            <select class="form-control" ng-model="CourseDAO.SectionId">
+                                <option ng-repeat="e in Section" value="{{e.SectionId}}">{{e.SectionName}}</option>
+                            </select>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-3">
+                        <div class="form-group">
+                            <label>Course Name</label>
+                            <input type="text" ng-model="CourseDAO.CourseName" class="form-control" />
+                        </div>
+                    </div>
+                </div>
+
+                <div class="row">
+
+                    <div class="col-md-3">
+                        <input type="button" ng-click="SaveData()" class="btn btn-primary" value="{{btnSaveTextCo}}" />
+                    </div>
+                </div>
+
+
+
+            </div>
+        </section>
+    </div>
+</div>
+<script src="~/Scripts/angular.min.js"></script>
+
+<script src="~/Scripts/AngularController/CourseControllerJS.js"></script>

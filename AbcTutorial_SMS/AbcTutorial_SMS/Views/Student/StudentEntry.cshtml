@@ -1,0 +1,217 @@
+﻿
+@{
+    ViewBag.Title = "StudentEntry";
+}
+
+
+@*data-ng-init="GetOneRecord(@Convert.ToInt32(Request.QueryString["MasterId"]))"*@
+
+<div ng-app="ABCApp" ng-controller="StudentController" >
+    <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <div class="content-header">
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1 class="m-0 text-dark">Student Entry </h1>
+                    </div><!-- /.col -->
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="../Student/StudentList">List View</a></li>
+                        </ol>
+                    </div><!-- /.col -->
+                </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </div>
+        <!-- /.content-header -->
+        <!-- Main content -->
+        <section class="content">
+            <div class="container-fluid">
+
+
+               
+                    <div class="row">
+                        <div class="col-md-4">
+
+
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Student Name</label>
+                                        <input type="text" ng-model="StudentDAO.StudentName" class="form-control" />
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Batch Name</label>
+                                        <select class="form-control" ng-model="StudentDAO.BatchId" ng-change="LoadSectionByBatchID(StudentDAO.BatchId)">
+                                            <option ng-repeat="e in Batch" value="{{e.BatchId}}">{{e.BatchName}}</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Section Name</label>
+                                        <select class="form-control" ng-model="StudentDAO.SectionId">
+                                            <option ng-repeat="e in Section" value="{{e.SectionId}}">{{e.SectionName}}</option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>DOB</label>
+                                        <input type="date" ng-model="StudentDAO.DOB" class="form-control" />
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Gender</label>
+                                        <select class="form-control" ng-model="StudentDAO.Gender">
+                                            <option value="Male">Male </option>
+                                            <option value="Female">Female </option>
+                                            <option value="Other">Other </option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                        <div class="col-md-4">
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Religion</label>
+                                        <select class="form-control" ng-model="StudentDAO.Religion">
+                                            <option value="Islam">Islam </option>
+                                            <option value="Christianity">Christianity </option>
+                                            <option value="Buddhism">Buddhism </option>
+                                            <option value="Hinduism">Hinduism </option>
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Father Name</label>
+                                        <input type="text" ng-model="StudentDAO.FatherName" class="form-control" />
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Mother Name</label>
+                                        <input type="text" ng-model="StudentDAO.MotherName" class="form-control" />
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Present Addrees</label>
+                                        <input type="text" ng-model="StudentDAO.PresentAddrees" class="form-control" />
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                        <div class="col-md-4">
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Permanent Address</label>
+                                        <input type="text" ng-model="StudentDAO.PermanentAddress" class="form-control" />
+                                    </div>
+                                </div>
+                            </div>
+
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Addmitted Date</label>
+                                        <input type="date" ng-model="StudentDAO.AddmittedDate" class="form-control" />
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="row">
+
+                                <div class="col-md-12">
+                                    <div class="form-group">
+                                        <label>Active Status</label>
+                                        <select class="form-control" ng-model="StudentDAO.Status">
+                                            <option value="true">Active </option>
+                                            <option value="false">Inactive </option>
+
+                                        </select>
+                                    </div>
+                                </div>
+                            </div>
+
+
+
+                        </div>
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+                    <div class="row">
+
+                        <div class="col-md-3">
+                            <input type="button" ng-click="SaveData()" class="btn btn-primary" value="{{btnSaveText}}" />
+                        </div>
+                    </div>
+
+
+
+                </div>
+</section>
+    </div>
+</div>
+<script src="~/Scripts/angular.min.js"></script> 
+
+<script src="~/Scripts/AngularController/StudentControllerJS.js"></script>

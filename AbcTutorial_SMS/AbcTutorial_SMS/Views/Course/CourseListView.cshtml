@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "CourseListView";
+}
+
+
+
+
+
+
+<div ng-app="ABCApp" ng-controller="CourseController">
+    <div class="content-wrapper">
+        <!-- Content Header (Page header) -->
+        <div class="content-header">
+            <div class="container-fluid">
+                <div class="row mb-2">
+                    <div class="col-sm-6">
+                        <h1 class="m-0 text-dark">Course List</h1>
+                    </div><!-- /.col -->
+                    <div class="col-sm-6">
+                        <ol class="breadcrumb float-sm-right">
+                            <li class="breadcrumb-item"><a href="../Course/CourseEntry">Add New Info</a></li>
+
+                        </ol>
+                    </div><!-- /.col -->
+                </div><!-- /.row -->
+            </div><!-- /.container-fluid -->
+        </div>
+        <!-- /.content-header -->
+        <!-- Main content -->
+        <section class="content">
+            <div class="container-fluid">
+
+
+                <div class="row">
+
+                    <div class="col-md-12">
+
+                        <table class="table table-responsive">
+                            <tr>
+                                <td>SL#</td>
+                                <td>Course Name</td>
+                                <td>Batch Name</td>
+                                <td>Section Name</td>
+                                <td>Edit</td>
+                                <td>Delete</td>
+                            </tr>
+                            <tr ng-repeat="e in Course" ng-class-even="'even'" ng-class-odd="'odd'">
+                                <td>{{e.SL}}</td>
+                                <td>{{e.CourseName}}</td>
+                                <td>{{e.BatchName}}</td>
+                                <td>{{e.SectionName}}</td>
+                                <td>
+                                    <a href="/Course/CourseEntry?MasterId={{e.CourseId}}" class="btn btn-warning">Edit</a>
+
+                                </td>
+                                <td><a ng-click="DeleteMAsterData(e.CourseId)" class="btn btn-danger">Delete</a> </td>
+                            </tr>
+                        </table>
+
+
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+        </section>
+    </div>
+</div>
+<script src="~/Scripts/angular.min.js"></script>
+ 
+<script src="~/Scripts/AngularController/CourseControllerJS.js"></script>
